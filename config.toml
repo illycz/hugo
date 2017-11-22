@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://hugo.keyhole.cz/"
 languageCode = "cs-cz"
 title = "My New Hugo Site"
 theme = "ananke"
